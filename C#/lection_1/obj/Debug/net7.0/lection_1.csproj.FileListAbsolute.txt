@@ -1,0 +1,15 @@
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/bin/Debug/net7.0/lection_1
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/bin/Debug/net7.0/lection_1.deps.json
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/bin/Debug/net7.0/lection_1.runtimeconfig.json
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/bin/Debug/net7.0/lection_1.dll
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/bin/Debug/net7.0/lection_1.pdb
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.csproj.AssemblyReference.cache
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.AssemblyInfoInputs.cache
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.AssemblyInfo.cs
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.csproj.CoreCompileInputs.cache
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.dll
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/refint/lection_1.dll
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.pdb
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/lection_1.genruntimeconfig.cache
+/Users/yaroslav_dmitriev/Documents/_geekbrains/C#/lection_1/obj/Debug/net7.0/ref/lection_1.dll
