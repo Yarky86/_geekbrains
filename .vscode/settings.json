@@ -1,0 +1,5 @@
+{
+    "typescript.experimental.tsserver.web.enableProjectWideIntellisense": true,
+    "editor.suggest.matchOnWordStartOnly": true,
+    "terminal.integrated.shellIntegration.suggestEnabled": true
+}
