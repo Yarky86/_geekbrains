@@ -32,8 +32,8 @@ mult = int(input('Input the multiply of the numbers: '))
 # print(f'Y = {int(y1)}')
 
 count = True
-for i in range (sum):
-    for j in range (sum):
+for i in range (int(1+sum/2)):
+    for j in range (int(sum)):
         if (i*j == mult) and (i+j == sum) and count:
             print(f"X = {i}, Y = {j}")
             count = False
