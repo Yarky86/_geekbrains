@@ -1,5 +1,10 @@
 {
     "typescript.experimental.tsserver.web.enableProjectWideIntellisense": true,
     "editor.suggest.matchOnWordStartOnly": true,
-    "terminal.integrated.shellIntegration.suggestEnabled": true
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "dotnet.defaultSolution": "_geekbrains.sln"
 }
