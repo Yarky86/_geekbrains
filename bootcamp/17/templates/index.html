@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block content %}
+    <h1> Hi, everyone and {{name}}!</h1>
+    {% if number == 1 %}
+    <p>You entered 1</p>
+    {% elif number == 2 %}
+    <p>You entered 2</p>
+    {% elif number == 3 %}
+    <p>You entered 3</p>
+    {% elif number == 4 %}
+    <p>You entered 4</p>
+    {% else %}
+    <p>You entered something else</p>
+    {% endif %}
+    <br>
+    {% for item in temp_list %}
+    <p>Hi, {{ item }}! </p>
+    {% endfor %}
+    <br>
+    <a href="/buy">Link</a>
+    <p> I am server</p>
+{% endblock %}
